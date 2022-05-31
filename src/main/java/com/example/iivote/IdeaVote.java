@@ -10,6 +10,6 @@ public interface IdeaVote extends CrudRepository <Personn,Long> {
 
 //    List<Personn>findAllBy();
 //    List<Personn> findByUserNem(String usrNem);
-//    Personn findById(long id);
+   Personn findById(long id);
 
 }
